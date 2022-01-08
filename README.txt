@@ -1,0 +1,6 @@
+-Download the file Tours of Hanoi.
+-Click on it to start.
+-You will have 2 windows one introducing data and another is for graphical representation of the proccess of game.
+-You have option to annulate your last move .
+-If you win you will be allowed to introduce your name and your score will be saved in generated file called 
+-tableau scores Tours de Hanoï.txt
